@@ -1,6 +1,6 @@
 <template>
   <q-page class="flex flex-center column">
-    HELLO WORLD
+    HELLO WORLD STEVEN
     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-full.svg"
